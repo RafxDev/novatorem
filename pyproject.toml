@@ -1,2 +1,7 @@
+[project]
+name = "novatorem"
+version = "0.1.0"
+requires-python = ">=3.9"
+
 [tool.vercel]
 entrypoint = "api.orchestrator:app"
